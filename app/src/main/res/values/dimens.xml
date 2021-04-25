@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="viewpager_height">0dp</dimen>
+    <dimen name="viewpager_padding_start">80dp</dimen>
+    <dimen name="viewpager_padding_end">80dp</dimen>
+</resources>
